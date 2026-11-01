@@ -1,6 +1,6 @@
 # welcome to my cozy web corner ! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-A retro Windows 95 desktop environment built in pure vanilla JS, HTML, and CSS (zero frameworks).
+A retro Windows 95 desktop environment built in pure vanilla JS & PHP.
 
 It acts as my personal portfolio, a playground for web experiments, and an upcoming testing ground for C and Go systems programming tinkering.
 

@@ -4,7 +4,7 @@ A retro Windows 98 desktop environment built in pure vanilla JS & PHP.
 
 It acts as my personal portfolio, a playground for web experiments, and an upcoming testing ground for C and Go systems programming tinkering.
 
-**Live demo at** [adiyn.alwaysdata.net](https://adiyn.alwaysdata.net)
+**Live demo at** [marechan.eu](https://marechan.eu)
 
 ## Features
 - **Win95 Desktop & Window Manager:** draggable windows, desktop grid snapping with boundary checks & anti-stack rollback.
